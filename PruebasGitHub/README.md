@@ -1,6 +1,5 @@
-
-<<<<<<< HEAD
-LOCAL
+rtrtrtrt
+localllll
 LOCAL
 LOCAL
 LOCAL
