@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 LOCAL
 LOCAL
 LOCAL
@@ -7,6 +8,16 @@ LOCAL
 LOCAL
 LOCAL
 LOCAL
+=======
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+Cambio desde githubmasasss
+>>>>>>> ced936f49906433883a97445b80c13929574f835
 sd
 fsdf
 sd
@@ -60,3 +71,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Cambio desde githubmasasss
